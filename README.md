@@ -13,7 +13,16 @@ hợp với máy của bạn:
 | Windows 10, 11 (64-bit) | `office-suite-<phiên bản>-setup.exe` |
 | Mac chip Apple (M1, M2, M3, M4…) | `office-suite-<phiên bản>.dmg` |
 
-Chưa có bản cho Mac chip Intel.
+Chưa có bản cho Mac chip Intel. Các tệp `latest*.yml`, `.blockmap` và `.zip` trong mỗi bản phát hành
+là để Office tự cập nhật, không cần tải.
+
+## Cập nhật
+
+Từ bản 1.0.18, Office tự tải bản mới khi có mạng. Tải xong, đầu cửa sổ hiện **Khởi động lại để cập
+nhật**; bấm **Để sau** thì bản mới được cài khi bạn tắt Office. Muốn kiểm tra ngay: menu
+**Trợ giúp → Kiểm tra bản cập nhật…**
+
+Đang dùng bản 1.0.17 trở về trước: tải bản mới ở mục Releases và cài đè một lần, không phải nhập lại key.
 
 ## Cài trên Windows
 
@@ -21,7 +30,7 @@ Chưa có bản cho Mac chip Intel.
 2. Nếu Windows hiện "Windows đã bảo vệ máy tính của bạn": bấm **Thông tin thêm** → **Vẫn chạy**.
 3. Mở Office, nhập **key** được cấp để kích hoạt.
 
-**Cập nhật bản mới:** tắt Office, rồi cài bản mới đè lên bản cũ. Không cần gỡ bản cũ, không phải nhập lại key.
+**Cài bản mới bằng tay** (nếu cần): tắt Office, rồi cài bản mới đè lên bản cũ. Không cần gỡ bản cũ, không phải nhập lại key.
 
 ## Cài trên Mac
 
