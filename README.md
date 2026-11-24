@@ -18,9 +18,12 @@ là để Office tự cập nhật, không cần tải.
 
 ## Cập nhật
 
-Từ bản 1.0.18, Office tự tải bản mới khi có mạng. Tải xong, đầu cửa sổ hiện **Khởi động lại để cập
-nhật**; bấm **Để sau** thì bản mới được cài khi bạn tắt Office. Muốn kiểm tra ngay: menu
-**Trợ giúp → Kiểm tra bản cập nhật…**
+Office tự kiểm tra bản mới khi có mạng. Từ bản 1.0.19, có bản mới thì đầu cửa sổ hỏi **Cập nhật**
+hay **Để sau**; bấm Cập nhật, Office tải bản mới trong lúc bạn vẫn làm việc, tải xong hiện
+**Khởi động lại để cập nhật** (bấm **Để sau** thì bản mới được cài khi bạn tắt Office). Muốn kiểm
+tra ngay: menu **Trợ giúp → Kiểm tra bản cập nhật…**
+
+Bản 1.0.18 tự tải bản mới không hỏi, rồi mới mời khởi động lại.
 
 Đang dùng bản 1.0.17 trở về trước: tải bản mới ở mục Releases và cài đè một lần, không phải nhập lại key.
 
